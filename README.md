@@ -1,8 +1,9 @@
-### Hi there, I'm, Jon! 👋
+## Hi there, I'm, Jon! 👋
+
+<img align="right" style="margin-left: 10px" alt="GIF" src="https://github.com/ortizjs/ortizjs/blob/main/currently-working.gif?raw=true" width="410" height="320"/>
 
 I am an Ex-Meta Software Engineer currently looking for new and exciting opportunities. I have experience developing full-stack web applications using technologies such as Ruby on Rails, Node.js, Hack, React, Express, PostgreSQL, MongoDB, GraphQL, TypeScript, Python, HTML5, and CSS3. I have worked at both, start-up and large company levels, and know what it is like being part of a large team with a lot of moving pieces and being part of a small close-knit team where everyone is expected to wear many hats. 
-
-<img align="right" alt="GIF" src="https://github.com/ortizjs/ortizjs/blob/main/currently-working.gif?raw=true" width="430" height="320"/>
+&nbsp;
 
 - 🔭 I’m currently open, actively applying and interviewing for new opportunities
 - 👯 I’m looking to collaborate on full stack web applications (large or small compaies)
@@ -11,6 +12,7 @@ I am an Ex-Meta Software Engineer currently looking for new and exciting opportu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Appeared in a TV show in El Salvador when I was 10
 
+&nbsp;
 <!--
 **ortizjs/ortizjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
