@@ -1,4 +1,4 @@
-## Hi there, I'm, Jon! 👋
+## Hi there, I'm Jon! 👋
 
 <img align="right" style="margin-left: 10px" alt="GIF" src="https://github.com/ortizjs/ortizjs/blob/main/currently-working.gif?raw=true" width="410" height="320"/>
 
